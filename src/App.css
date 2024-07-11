@@ -1,0 +1,11 @@
+.custom-menu {
+  background-color: black;
+}
+
+.custom-menu .ant-menu-item {
+  color: white;
+}
+
+.custom-menu .ant-menu-item:hover {
+  background-color: red;
+}
